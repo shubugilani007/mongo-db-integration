@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-       uri: mongodb+srv://shubugilani007:shubuInn0%40brc@cluster0.7m38fjw.mongodb.net/shoaib?retryWrites=true&w=majority
+       uri: mongodb+srv://<username>:<pass>@cluster0.7m38fjw.mongodb.net/shoaib?retryWrites=true&w=majority
        database: shoaib
